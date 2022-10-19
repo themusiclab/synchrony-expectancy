@@ -1,13 +1,24 @@
-# CODE // Project Title
+# Expectancy effects threaten the inferential validity of synchrony-prosociality research
 
-This repo contains all files for CODE. Google docs related to the project are in `musiclabgdrive`. Stim and other large files are on `musiclabnas`. If you don't have access to these resources, ask a Music Lab admin for help.
+This is the repository for Atwood, Schachner, & Mehr (2022) "Expectancy effects threaten the inferential validity of synchrony-prosociality research". The manuscript is publicly available at https://psyarxiv.com/zjy8u/.
 
-CODE does not have its own Trello board, but has a card on **musiclab-status** at https://trello.com/c/zkgEqrZ5.
+You can find the following here:
+- an R Markdown file that generates the manuscript
+- data, analysis, and visualization code to produce the results reported in the manuscript
 
-[or]
+Data to enable the comparison between original results in Wiltermuth & Heath (2009, *Psych Science*) is available from Scott Wiltermuth.
 
-CODE has its own Trello board at xx link
+**For assistance with our materials, please contact the authors: S. Atwood (satwood@princeton.edu), Adena Schachner (schachner@ucsd.edu), and Samuel Mehr (sam@yale.edu).**
 
-## Description
+## Anatomy of the repo
 
-Description of Project Title goes here.
+To render the paper, run the code in `/writing/manuscript.Rmd`.
+
+> **Warning**  
+> In a few spots, manual intervention is required. These are clearly commented and include analyses requiring external data that is not ours to post, or visualizations that are not entirely procedurally generated.
+
+All data files are in the main directory.
+
+### Materials
+
+The full text of the survey given to participants at Harvard and UCSD is in the file `sync-survey.pdf`.
