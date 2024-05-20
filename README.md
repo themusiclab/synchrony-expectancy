@@ -22,3 +22,5 @@ All data files are in the main directory.
 ### Materials
 
 The full text of the survey given to participants at Harvard and UCSD is in the supplementary information of the paper (reproduced here in `supplement.pdf`).
+
+[![DOI](https://zenodo.org/badge/554309271.svg)](https://zenodo.org/doi/10.5281/zenodo.11218601)
